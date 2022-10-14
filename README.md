@@ -18,6 +18,7 @@ searching
 
 displaying(sorted) student information
 
+
 after terminated)
 
 file processing: inserted student information maintained
